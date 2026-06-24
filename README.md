@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from Vaniyambadi, India</h3>
 
 <p align="left">
-I am currently pursuing my 2nd year B.Sc. Computer Science at Islamiah College (Autonomous). My journey into tech started with a curiosity about how the web works, which transformed into a passion for building high-performance applications. I specialize in modern JavaScript technologies, building responsive and user-friendly applications with React, Next.js, and Node.js.
+I am currently pursuing my 3rd year B.Sc. Computer Science at Islamiah College (Autonomous). My journey into tech started with a curiosity about how the web works, which transformed into a passion for building high-performance applications. I specialize in modern JavaScript technologies, building responsive and user-friendly applications with React, Next.js, and Node.js.
 </p>
 
 - 🔭 I’m currently working on building **responsive and user-friendly web applications**
@@ -13,7 +13,7 @@ I am currently pursuing my 2nd year B.Sc. Computer Science at Islamiah College (
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sajjad-saffan-4b551b263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjad-saffan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-sajjad-4b551b263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjad-saffan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_sajjad_19_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sajjad_19_" height="30" width="40" /></a>
 </p>
 
